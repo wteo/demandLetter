@@ -1,0 +1,14 @@
+{
+  "name": "demandletter",
+  "version": "1.0.0",
+  "description": "A template where users can use to generate demand letter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wendy Teo",
+  "license": "ISC",
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  }
+}

@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+}
+
+label {
+    color: grey;
+    padding-right: 30px;
+}
+
+#logo {
+    height: 100px;
+    width: 300px;
+}
+
+.top {
+    display: inline-block;
+    font-size: x-small;
+}
+
+#officeAddress {
+    padding-left: 100px;
+    position: relative;
+    bottom: 30px;
+}
+
+#officeAddress p {
+    margin-bottom: 0;
+    margin: 0;
+    padding-top: 5px;
+}
+
+#ABN {
+    padding-left: 100px;
+    position: relative;
+    bottom: 60px;
+}
+
+#ABN p {
+    margin-bottom: 0;
+    margin: 0;
+    padding-top: 5px;
+}
+
+#enteredAddress p {
+    margin-bottom: 0;
+    margin: 0;
+    padding-top: 0;
+}
+
+#title {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+th {
+    padding-left: 20px;
+}
+
+td {
+    padding-left: 20px;   
+}
+
+#date {
+    width: 40px;
+}
+
+#month {
+    width: 40px;
+}
+
+#year {
+    width: 80px;
+}
+
+#signature p {
+    margin-bottom: 0;
+    margin: 0;
+    padding-top: 5px;
+}
