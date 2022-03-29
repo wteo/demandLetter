@@ -43,6 +43,6 @@ class Signature {
     }
 }
 
-
+// Fictional details
 const person1 = new Signature("Amy O'Brien", "General Manager", "Link Market Services", "+61 (0)2 8005 1222", "+61 (0)451 333 881", "amyobrien@lms.com", "option1");
 const person2 = new Signature("Timothy McCloud", "Client Relations Manager", "Orient Capital", "+61 (0)3 8810 5914", "+61 (0)412 124 999", "timmccloud@lms.com", "option2");
