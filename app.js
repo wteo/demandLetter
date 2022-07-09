@@ -1,6 +1,7 @@
 linkMarketServices.addCompany();
 linkMarketServices.getLetterHead();
 orientCapital.addCompany();
+// orientCapital.removeCompany();
 orientCapital.getLetterHead();
 
 const letterDate = document.querySelector("#letterDate");

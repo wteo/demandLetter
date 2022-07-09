@@ -5,7 +5,7 @@ class Company {
         this.imageLink = imageLink;
         this.companyName = companyName;
         this.ABN = ABN;
-        this.value = value;
+        this.value = value; // to create id for each option element
     }
     addCompany() {
         const option = document.createElement("option");

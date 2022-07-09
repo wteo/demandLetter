@@ -64,7 +64,7 @@ function enteredDoc(event) {
 function removeForm (event) {
     try {
         event.preventDefault();
-        addConclusion();
+        addConclusion(); // find this in the mainContent.js file
         const form = document.querySelector("#addDocsForm");
         form.remove();
     }

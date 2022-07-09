@@ -1,7 +1,7 @@
 let sumDebt = 0;
 const bodyTable = document.querySelector("tbody"); 
 
-
+// This class is used in the EventListener.js 
 class Document {
     constructor(documentNo, documentType, [date, month, year], paymentTerm, amount) {
         this.documentNo = documentNo;

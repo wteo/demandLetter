@@ -34,6 +34,6 @@ function addConclusion() {
     createP(`Unless the matter is settled within ${demandLetterPaymentTerm.extendedDays} days, we will look to cease all services and pursue collection via legal recovery method.`);
     createP(`Accordingly, we seek immediate settlement of the outstanding amount, totalling $${sumDebt.toLocaleString()} inc GST, by close of business on ${demandLetterPaymentTerm.dueDate}.`);
     createP(`We look forward to your early advice.`);
-}
+} // this was executed in the eventListener.js file
 
 

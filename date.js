@@ -11,5 +11,5 @@ function getDate(extendedDays = 0) {
 
 const demandLetterPaymentTerm = {
     extendedDays        : 14,
-    dueDate             : getDate(14)
+    dueDate             : getDate(14) // dueDate from date Demand Letter is sent
 }
